@@ -1,9 +1,21 @@
 The following files are included here, to substantiate the claims made in this documentation:
   
-  - The employement contract given to me by the University of Iowa (UIowa) from the year 2007. The contract's verbiage indicates that I never assigned or transfered the work outputs and products from my my labors, neither to UIowa nor to any of the funding agencies of the projects I had contributed to while working as a graduate research assistant in UIowa. The same template as an employment contract was used for hiring hundreds of other workers at UIowa, over a period of decades. 
+  1. **The employement contract** given to me by the University of Iowa (UIowa) from the year 2007. 
   
-  - One of the R&D files from a project I had worked on, which examplifies how engineering manipulations of the software governing the artificial intelligence (AI) of a number of drone models, were modified and tuned to deliberately allow the drones to become indiscriminately lethal, to semi-autonomously selected targets on the ground. This has remained a critical and severe act of indiscriminate violence, perpetrated via hidden systemic designs that have led to mass civilian casualties, as well as fetal or dibilitating injuries caused to friendly soldiers.
+      1. The contract's verbiage indicates that I never assigned or transfered the work outputs and products from my my labors, neither to UIowa nor to any of the funding agencies of the projects I had contributed to while working as a graduate research assistant in UIowa. 
+      
+      1. A stipulated condition within the contract states, *"As an employee of the University of Iowa, your research and results will be subject to all appropriate and applicable provisions regarding intellectual property rights."* However, what these provisions were supposed to be were not included in the contract in an explict form. Nor were the terms and conditions related to "provisions regarding intellectual property rights" attached as an addendum to the given contract. Worse, no links or even hints were provided as to where one could ever read about the University of Iowa's policies regarding intellectual property rights of its employees. 
+      
+      1. It should also be noted that, in comparision to the hyperlinks provided within the contract for policies related to "collective bargaining" for salaries and wages, as ratified via the involvement of the University of Iowa's graduate student government (i.e. Coalition of Graduate Students. COGS), there was no reason not to include a similar link to the university's policies regarding intellectual property rights. From this it can be concluded that the University of Iowa concealed and prevented: all forthright and explicit discussions or negotiations that an employee could have ever had with the university (the employer), regarding assignment of intellectual property rights.   
+      
+      1. The same template along with its verbiage and mergefields, as an employment contract and employment offer letter, was used for hiring hundreds of other workers at the University of Iowa, over a period of decades. 
+  
+  1. **One of the research and development (R&D) files** from a project I had worked on. 
+  
+      1. This R&D file examplifies how engineering manipulations of the software governing the artificial intelligence (AI) of a number of drone models, were modified and tuned to deliberately allow the drones to become indiscriminately lethal, to semi-autonomously selected targets on the ground. 
+      
+      1. Programatic ways of manipulating the AI and control features of defense systems, have led to critical and severe act of indiscriminate violence, perpetrated via hidden systemic designs. Such deliberate systemic manipulations have led to mass civilian casualties, as well as fatal or dibilitating injuries caused to friendly soldiers.
   
 Additional files showcasing conversations between drone operators and their commanding officers, which indicated that drone operators were aware of shooting at civilians when the drones were remotely piloted in manual mode, aren't available. 
   
-Hundreds of R&D files from many more drone related projects I had worked on while employed at UIowa, including psychological techniques used for desensitizing drone operators to make them less hesitant in killing improperly identified targets, aren't provided here. 
+Hundreds of R&D files from many more drone related projects I had worked on while employed at the University of Iowa, including R&D of psychological techniques used for desensitizing drone operators to make them less hesitant in killing improperly identified targets, aren't provided here. 
