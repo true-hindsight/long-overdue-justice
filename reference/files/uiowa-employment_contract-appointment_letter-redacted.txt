@@ -1,0 +1,41 @@
+
+ MERGEFIELD "Title" [REDACTED] [REDACTED]
+ MERGEFIELD "Address_1" CCAD Research
+ MERGEFIELD "Address_2" 4219 SC
+ MERGEFIELD "City" Iowa City,  MERGEFIELD "State" IA  MERGEFIELD "Zip" 52242 MERGEFIELD "Zip" 52242
+
+
+ MERGEFIELD "Salutation_Title" Dear [REDACTED]:
+
+I am pleased to offer you an appointment as a  MERGEFIELD "Percent" 50% time Graduate Research Assistant in the Center for Computer Aided Design at a rate of  MERGEFIELD "Salary_1" \# $##,###.00[REDACTED] per month or  MERGEFIELD "Salary_2"\# $##,###.00 [REDACTED] per calendar year†.  This appointment will begin on  MERGEFIELD "Start_Date" \@ "MMMM d., yyyy"October 1, 2007  and continue through December 31, 2007. You will be required to be a registered graduate student carrying a minimum of nine semester hours of academic credit each semester and to devote  MERGEFIELD "Hours" 20 hours per week to a research project under the supervision of [REDACTED].
+
+The University will also classify you as a resident for fee purposes during the semesters you hold an appointment of 25% or greater and any adjacent summer sessions in which you enroll. The University provides health insurance benefits as described in the enclosed attachments. In addition, all bargaining unit graduate students (Research Assistants/Teaching Assistants) appointed for a total of 25% or more for an entire semester, academic year, or fiscal year will be assured a minimum tuition scholarship. For the 2006-2007 academic year, this scholarship will be $1,962.00 per semester for students carrying a minimum of nine semester hours.
+
+As a member of the CSL research activity in CCAD, you will be responsible for coordinating your work with other researchers and for ensuring that your work functions as a final product that can be demonstrated. As an employee of the University of Iowa, your research and results will be subject to all appropriate and applicable provisions regarding intellectual property rights.
+
+Whenever possible, Graduate Research Assistants are assigned to projects that are related to their interests and career objectives.  However, if the funding situation of the project to which you are assigned changes, your appointment may also change. It is expected that an appointment will be available on continuing basis until completion of your degree.  This is, of course, assuming satisfactory performance in both your research and academic work, as well as the availability of project work and funding.
+
+The terms and conditions of employment, including but not limited to wages and benefits, in this position are governed by a collective bargaining agreement between the Board of Regents, State of Iowa and UI Local 896/COGS, the union representing graduate teaching and research 
+assistants at the University of Iowa.  Copies of this collective bargaining agreement are available from the Union and may be viewed either from the University web site: 
+ HYPERLINK "http://www.uiowa.edu/hr/relations/Cogs/cogs.pdf" http://www.uiowa.edu/hr/relations/Cogs/cogs.pdf or from the Union web site:
+ HYPERLINK "http://www.cogs.org" http://www.cogs.org.
+
+I would appreciate receiving your response to this offer no later than 10/15/07.  If you accept this appointment, please sign this letter in the space below and return to the Center for Computer-Aided Design, ATTN: [REDACTED], at the address given above.
+
+If you have any questions or wish to discuss any aspect of the proposed arrangements, please do not hesitate to call [REDACTED] at [REDACTED] or myself at [REDACTED].
+
+	Sincerely yours,
+	 [REDACTED] 	
+	[REDACTED]
+	Director
+
+
+
+
+I Accept This Offer:						Date:		
+
+cc:   MERGEFIELD "Super_Depart" [REDACTED]
+      MERGEFIELD "Dept_Chair" [REDACTED]
+     [REDACTED]
+     [REDACTED], Assistant Director, Office of Admissions
+	†	Yearly Graduate Research Assistant pay increases at The University of Iowa take effect on July 1. Actual salary may be higher than that quoted herein, depending on the appointment start date. 
