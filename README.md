@@ -17,6 +17,9 @@ Publicly viewable content about Legal conflicts arising from inauthentic and har
   <ul>
     <li><h3><a href="/expose/02-1.md#21-main-reasons-for-seeking-relief-via-international-interventions">2.1 Main Reasons for Seeking Relief via International Interventions</a></h3></li>
   </ul>
+  
+  <li><h2><a href="/expose/03-0.md#3-violations-of-workers-intellectual-property-and-moral-rights-via-north-american-universities">3. Violations of Workers' Intellectual Property and Moral Rights via North American Universities</a></h2></li>
+
 </ul>
 </div>
 
