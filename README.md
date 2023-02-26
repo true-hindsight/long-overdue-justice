@@ -2,7 +2,7 @@
 Publicly viewable content about Legal conflicts arising from inauthentic and harmful university programs in North America
 
 ## Table of Contents
-
+<div list-style-type: none;>
 <ul>
   <li><h2><a href="/expose/00-0.md#summary">Summary</a></h2></li>
   
@@ -13,6 +13,7 @@ Publicly viewable content about Legal conflicts arising from inauthentic and har
     <li><h3>1.2 The Hypocrisy and Pretense of Superficially Humble Nation-States</h3></li>
   </ul>
 </ul>
+</div>
 
 ## 2. Seriousness of Engineering, Managerial, and Operational Errors in Aviation
 
