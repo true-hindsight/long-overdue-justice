@@ -3,15 +3,15 @@ Publicly viewable content about Legal conflicts arising from inauthentic and har
 
 ## Table of Contents
 
-- ## [Summary](/expose/00-0.md#summary)
+1. ## [Summary](/expose/00-0.md#summary)
 
-- ## 1. Introduction
+1. ## Introduction
 
     - ### 1.1 A Right to Commit Mass Murders, Question Mark
 
     - ### 1.2 The Hypocrisy and Pretense of Superficially Humble Nation-States
 
-- ## 2. Seriousness of Engineering, Managerial, and Operational Errors in Aviation
+1. ## Seriousness of Engineering, Managerial, and Operational Errors in Aviation
 
     - ### 2.1 Main Reasons for Seeking Relief via International Interventions
 
