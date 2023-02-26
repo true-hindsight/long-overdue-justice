@@ -9,9 +9,9 @@ Publicly viewable content about Legal conflicts arising from inauthentic and har
   <li><h2><a href="/expose/01-0.md#introduction">1. Introduction</a></h2></li>
   
   <ul>
-    <li><h3><a href="/expose/01-1.md#11-a-right-to-commit-mass-murders-question-mark">1.1 A Right to Commit Mass Murders, Question Mark</a></h3></li>
-    
-    <li><h3><a href="/expose/01-2.md#12-the-hypocrisy-and-pretense-of-superficially-humble-nation-states">1.2 The Hypocrisy and Pretense of Superficially Humble Nation-States</a></h3></li>
+  <li><h3><a href="/expose/01-1.md#11-a-right-to-commit-mass-murders-question-mark">1.1 A Right to Commit Mass Murders, Question Mark</a></h3></li>
+  
+  <li><h3><a href="/expose/01-2.md#12-the-hypocrisy-and-pretense-of-superficially-humble-nation-states">1.2 The Hypocrisy and Pretense of Superficially Humble Nation-States</a></h3></li>
   </ul>
   
   <li><h2><a href="/expose/02-0.md#2-seriousness-of-engineering-managerial-and-operational-errors-in-aviation">2. Seriousness of Engineering, Managerial, and Operational Errors in Aviation</a></h2></li>
@@ -33,9 +33,9 @@ Publicly viewable content about Legal conflicts arising from inauthentic and har
   <li><h2><a href="/expose/08-0.md#8-blue-sky-projects-developed-and-deployed-via-north-american-universities">8. Blue Sky Projects Developed, and Deployed via North American Universities</a></h2></li>
   
   <ul>
-    <li><h3><a href="/expose/08-1.md#81-unethical-experiments-conducted-on-human-beings">8.1 Unethical Experimentation on Human Subjects</a></h3></li>
+  <li><h3><a href="/expose/08-1.md#81-unethical-experiments-conducted-on-human-beings">8.1 Unethical Experimentation on Human Subjects</a></h3></li>
   
-    <li><h3><a href="/expose/08-2.md#82-cognitive-behavior-therapy-cbt-and-dialectical-behavior-therapy-dbt">8.2 Cognitive Behavior Therapy (CBT) and Dialectical Behavior Therapy (DBT)</a></h3></li>
+  <li><h3><a href="/expose/08-2.md#82-cognitive-behavior-therapy-cbt-and-dialectical-behavior-therapy-dbt">8.2 Cognitive Behavior Therapy (CBT) and Dialectical Behavior Therapy (DBT)</a></h3></li>
   </ul>
   
   <li><h2><a href="/expose/09-0.md#9-personal-motivations-for-seeking-justice">9. Personal Motivations For Seeking Justice</a></h2></li>
