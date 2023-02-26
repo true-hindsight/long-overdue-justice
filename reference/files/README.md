@@ -1,22 +1,22 @@
 The following files are included here, to substantiate the claims made in this documentation:
   
-  1. **The employement contract** given to me by the University of Iowa (UIowa) from the year 2007. 
+  1. **The employment contract** given to me by the University of Iowa (UIowa) from the year 2007. 
   
-      1. The contract's verbiage indicates that I never assigned or transfered the work outputs and products from my my labors, neither to UIowa nor to any of the funding agencies of the projects I had contributed to while working as a graduate research assistant in UIowa. 
+      1. The contract's verbiage indicates that I never assigned or transferred the work outputs and products of my labors, neither to UIowa nor to any of the funding agencies of the projects I had contributed to while working as a graduate research assistant in UIowa. 
       
-      1. A stipulated condition within the contract states, *"As an employee of the University of Iowa, your research and results will be subject to all appropriate and applicable provisions regarding intellectual property rights."* However, what these provisions regarding intellectual property rights were supposed to be, were never included in the employment contracts of the University of Iowa in an explict and salient form. Nor were the terms and conditions related to "provisions regarding intellectual property rights" attached as an addendum to the given contract. Worse, no hyperlinks and not even any kind of hints were provided in the contract, about where one could access the official text about the University of Iowa's policies regarding intellectual property rights of its employees. 
+      1. A stipulated condition within the contract states, *"As an employee of the University of Iowa, your research and results will be subject to all appropriate and applicable provisions regarding intellectual property rights."* However, what these provisions regarding intellectual property rights were supposed to be, were never included in the employment contracts of the University of Iowa in an explicit and salient form. Nor were the terms and conditions related to "provisions regarding intellectual property rights" attached as an addendum to the given contract. Worse, no hyperlinks and not even any kind of hints were provided in the contract, about where one could access the official text about the University of Iowa's policies regarding intellectual property rights of its employees. 
       
-      1. It should also be noted that, in comparision to the hyperlinks that were provided within the contract for policies related to "collective bargaining for salaries and wages," as ratified via the involvement of the University of Iowa's graduate student government (i.e. Coalition of Graduate Students, COGS), there was no reason for not including a similar link to the university's policies regarding intellectual property rights. 
+      1. It should also be noted that, in comparison to the hyperlinks that were provided within the contract for policies related to "collective bargaining for salaries and wages," as ratified via the involvement of the University of Iowa's graduate student government (i.e. Coalition of Graduate Students, COGS), there was no reason for not including a similar link to the university's policies regarding intellectual property rights. 
       
-       1. The same template along with its verbiage and mergefields, as an employment contract and employment offer letter, was used for hiring hundreds of other workers at the University of Iowa, over a period of decades. 
+       1. The same template along with its verbiage and merge-fields, as an employment contract and employment offer letter, was used for hiring hundreds of other workers at the University of Iowa, over a period of decades. 
        
        1. From the above-mentioned observations it can be concluded that the University of Iowa concealed and prevented: all forthright and explicit discussions or negotiations that an employee could have ever had with the university (the employer), regarding assignment of intellectual property rights. This is how, over a period of decades, the legal rights of hundreds or even thousands of employees of the University of Iowa, were impaired and infringed upon, by the university and its affiliates.   
   
   1. **One of the research and development (R&D) files** from a project I had worked on. 
   
-      1. This R&D file examplifies how engineering manipulations of the software governing the artificial intelligence (AI) of a number of drone models, were modified and tuned to deliberately allow the drones to become indiscriminately lethal, to semi-autonomously selected targets on the ground. 
+      1. This R&D file exemplifies how engineering manipulations of the software governing the artificial intelligence (AI) of a number of drone models, were modified and tuned to deliberately allow the drones to become indiscriminately lethal, to semi-autonomously selected targets on the ground. 
       
-      1. Programatic ways of manipulating the AI and control features of defense systems, have led to critical and severe act of indiscriminate violence, perpetrated via hidden systemic designs. Such deliberate systemic manipulations have led to mass civilian casualties, as well as fatal or dibilitating injuries caused to friendly soldiers.
+      1. Programmatic ways of manipulating the AI and control features of defense systems, have led to critical and severe act of indiscriminate violence, perpetrated via hidden systemic designs. Such deliberate systemic manipulations have led to mass civilian casualties, as well as fatal or debilitating injuries caused to friendly soldiers.
   
 Additional files showcasing conversations between drone operators and their commanding officers, which indicated that drone operators were aware of shooting at civilians when the drones were remotely piloted in manual mode, aren't available. 
   
