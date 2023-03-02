@@ -1,12 +1,12 @@
 # Long Overdue Justice
-Publicly viewable content about Legal conflicts arising from inauthentic and harmful university programs in North America
+Publicly viewable content about legal conflicts arising from inauthentic and harmful university programs in North America
 
 ## Table of Contents
 <div id="user-content-toc">
 <ul>
-  <li><h3>Part I</h3></li>
-  
   <li><h4><a href="/expose/00-0.md#summary">Summary</a></h4></li>
+  
+  <li><h3>Part I</h3></li>
   
   <li><h4><a href="/expose/01-0.md#introduction">1. Introduction</a></h4></li>
   
@@ -30,7 +30,7 @@ Publicly viewable content about Legal conflicts arising from inauthentic and har
   
   <li><h4><a href="/expose/06-0.md#6-testimonial-evidence-about-intentional-drone-strikes-on-civilians">6. Testimonial Evidence About Intentional Drone Strikes on Civilians</a></h4></li>
   
-  <li><h4><a href="/expose/07-0.md#7-the-value-of-data-from-gps-enabled-devices">7. The Value of Data From Fitness Trackers and Wearable Devices</a></h4></li>
+  <li><h4><a href="/expose/07-0.md#7-the-value-of-data-from-gps-enabled-devices">7. The Value of Data From GPS Enabled Devices</a></h4></li>
   
   <li><h4><a href="/expose/08-0.md#8-blue-sky-projects-developed-and-deployed-via-north-american-universities">8. Blue Sky Projects Developed, and Deployed via North American Universities</a></h4></li>
   
@@ -49,6 +49,6 @@ Publicly viewable content about Legal conflicts arising from inauthentic and har
   <li><h4><a href="/expose/11-0.md#11-competent-authority-at-law">11. Competent Authority at Law</a></h4></li>
   
   <li><h3>Part III</h3></li></div>
-  <strong>Work In Progress</strong>
+  <strong>[Work In Progress]</strong>
 </ul>
 </div>
