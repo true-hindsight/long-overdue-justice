@@ -49,6 +49,8 @@ Publicly viewable content about grievous legal conflicts arising from inauthenti
   <li><h4><a href="/expose/11-0.md#11-competent-authority-at-law">11. Competent Authority at Law</a></h4></li>
   
   <li><h3>Part III</h3></li></div>
+  
   <strong>[Work In Progress]</strong>
+  
 </ul>
 </div>
