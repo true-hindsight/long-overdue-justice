@@ -4,7 +4,7 @@ Publicly viewable content about Legal conflicts arising from inauthentic and har
 ## Table of Contents
 <div id="user-content-toc">
 <ul>
-  <div align="center"><li><h3>Part I</h3></li></div>
+  <li><h3>Part I</h3></li>
   
   <li><h4><a href="/expose/00-0.md#summary">Summary</a></h4></li>
   
@@ -42,13 +42,13 @@ Publicly viewable content about Legal conflicts arising from inauthentic and har
   
   <li><h4><a href="/expose/09-0.md#9-personal-motivations-for-seeking-justice">9. Personal Motivations For Seeking Justice</a></h4></li>
   
-  <div align="center"><li><h3>Part II</h3></li></div>
+  <li><h3>Part II</h3></li>
   
   <li><h4><a href="/expose/10-0.md#10-anticipated-rebuttals-and-repudiations">10. Anticipated Rebuttals and Repudiations</a></h4></li>
   
   <li><h4><a href="/expose/11-0.md#11-competent-authority-at-law">11. Competent Authority at Law</a></h4></li>
   
-  <div align="center"><li><h3>Part III</h3></li></div>
-  <div align="center"><strong>Work In Progress</strong></div>
+  <li><h3>Part III</h3></li></div>
+  <strong>Work In Progress</strong>
 </ul>
 </div>
