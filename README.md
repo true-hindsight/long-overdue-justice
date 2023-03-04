@@ -1,5 +1,9 @@
 # Long Overdue Justice
-Publicly viewable content about grievous legal conflicts arising from inauthentic and harmful university programs in North America
+Publicly viewable content about grievous legal conflicts arising from inauthentic and harmful university programs in North America.
+
+## Note
+
+- The word "civilian(s)" in this documentation, means "unarmed civilian(s)."
 
 ## Table of Contents
 <div id="user-content-toc">
