@@ -55,7 +55,7 @@ Publicly viewable content about grievous legal conflicts arising from inauthenti
   
   <li><h4><a href="/expose/11-0.md#11-competent-authority-at-law">11. Competent Authority at Law</a></h4></li>
   
-  <li><h3>Part III</h3></li></div>
+  <li><h3>Part III</h3></li>
   
   <li><h4><a href="/expose/12-0.md#12-unethical-and-illegitimate-deeds-made-legal-by-canadian-authorities">12. Unethical and Illegitimate Deeds Made Legal By Canadian Authorities</a></h4></li>
   
