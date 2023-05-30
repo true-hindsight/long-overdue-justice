@@ -57,6 +57,10 @@ Publicly viewable content about grievous legal conflicts arising from inauthenti
   
   <li><h3>Part III</h3></li></div>
   
+  <li><h4><a href="/expose/12-0.md#12-unethical-and-illegitimate-deeds-made-legal-by-canadian-authorities">12. Unethical and Illegitimate Deeds Made Legal By Canadian Authorities</a></h4></li>
+  
+  <li><h4><a href="/expose/13-0.md#13-lsos-involvement-in-protecting-canadian-threat-actors">13. LSO's Involvement in Protecting Canadian Threat Actors</a></h4></li>
+  
   <strong>[Work In Progress]</strong>
   
 </ul>
