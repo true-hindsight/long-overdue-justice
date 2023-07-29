@@ -61,6 +61,10 @@ Publicly viewable content about grievous legal conflicts arising from inauthenti
   
   <li><h4><a href="/expose/13-0.md#13-lsos-involvement-in-protecting-canadian-threat-actors">13. LSO's Involvement in Protecting Canadian Threat Actors</a></h4></li>
   
+  <li><h4><a href="/expose/14-0.md#14-lsos-actions-in-abetting-destruction-of-material-evidence-of-genocides">14. LSO's Actions in Abetting Destruction of Material Evidence of Genocides</a></h4></li>
+  
+  <li><h4><a href="/expose/15-0.md#15-0a-0b-0c-0d">15. 0A 0B 0C 0D</a></h4></li>
+  
   <strong>[Work In Progress]</strong>
   
 </ul>
