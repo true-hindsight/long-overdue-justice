@@ -5,7 +5,7 @@ Publicly viewable content about grievous legal conflicts arising from inauthenti
 
 - The word "civilian(s)" in this documentation, means "unarmed civilian(s)."
 
-- Please right-click on links for an option to open them within a new tab, or a new window of your browser.
+- Please right-click on links for an option to open them within a new tab, or a new window of your browser. 
 
 
 ## Table of Contents
