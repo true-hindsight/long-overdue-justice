@@ -1,11 +1,11 @@
 # Long Overdue Justice
 
-<p align="center">
+<div align="center">
 
 ![GitHub release version](https://img.shields.io/github/v/release/true-hindsight/long-overdue-justice?label=version&color=066da5) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/true-hindsight/long-overdue-justice?label=size&color=066da5)
 
-</p>
+</div>
 
 Publicly viewable content about grievous legal conflicts arising from inauthentic and harmful university programs in North America.
 
