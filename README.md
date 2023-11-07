@@ -75,7 +75,7 @@ Publicly viewable content about grievous legal conflicts arising from inauthenti
   <li><h4><a href="/expose/14-1.md#141-moving-on">14.1 Moving on</a></h4></li>
   </ul>
   
-  <li><h4><a href="/expose/15-0.md#15-0a-0b-0c-0d">15. 0A 0B 0C 0D</a></h4></li>
+  <li><h4><a href="/expose/15-0.md#15-0a-0b-0c-0d-0e-0f">15. 0A 0B 0C 0D 0E 0F</a></h4></li>
   
   <strong>[Work In Progress]</strong>
   
