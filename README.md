@@ -61,6 +61,8 @@ Publicly viewable content about grievous legal conflicts arising from inauthenti
   
   <li><h4><a href="/expose/10-0.md#10-anticipated-rebuttals-and-repudiations">10. Anticipated Rebuttals and Repudiations</a></h4></li>
   
+  <li><h4><a href="/expose/10-2.md#102-demanded-long-overdue-debts-owed-by-north-american-institutes">Demanded, Long-overdue Debts Owed by North American institutes</a></h4></li>
+  
   <li><h4><a href="/expose/11-0.md#11-competent-authority-at-law">11. Competent Authority at Law</a></h4></li>
   
   <li><h3>Part III</h3></li>
