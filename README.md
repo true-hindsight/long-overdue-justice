@@ -7,7 +7,7 @@
 
 </div>
 
-Publicly viewable content about grievous legal conflicts arising from inauthentic and harmful university programs in North America.
+A documentary about the legal conflicts arising from theft of intellectual properties, belonging to international students and workers, by North American state-sponsored groups.
 
 ## Note
 
