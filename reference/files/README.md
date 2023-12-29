@@ -16,7 +16,7 @@ The following files are included here, to substantiate the claims made in this d
   
       1. This R&D file exemplifies how engineering manipulations of the software governing the artificial intelligence (AI) of a number of drone models, were modified and tuned to deliberately allow the drones to become indiscriminately lethal, to semi-autonomously selected targets on the ground. 
       
-      1. Programmatic ways of manipulating the AI and control features of defense systems, have led to critical and severe act of indiscriminate violence, perpetrated via hidden systemic designs. Such deliberate systemic manipulations have led to mass civilian casualties, as well as fatal or debilitating injuries caused to friendly soldiers.
+      1. Programmatic ways of manipulating the AI and control features of defense systems, have led to critical and severe acts of indiscriminate violence, perpetrated via hidden systemic designs. Such deliberate systemic manipulations have led to mass civilian casualties, as well as fatal or debilitating injuries caused to friendly soldiers.
   
 Additional files showcasing conversations between drone operators and their commanding officers, which indicated that drone operators were aware of shooting at civilians when the drones were remotely piloted in manual mode, aren't available. 
   
