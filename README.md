@@ -3,17 +3,19 @@
 <div align="center">
 
 ![GitHub release version](https://img.shields.io/github/v/release/true-hindsight/long-overdue-justice?label=version&color=066da5) 
-![GitHub repo size](https://img.shields.io/github/repo-size/true-hindsight/long-overdue-justice?label=size&color=066da5)
+![GitHub repo size](https://img.shields.io/github/repo-size/true-hindsight/long-overdue-justice?label=size&color=066da5) 
 
 </div>
 
-A documentary about the legal conflicts arising from theft of intellectual properties, belonging to international students and workers, by North American state-sponsored groups.
+A documentary about the legal conflicts arising from theft of intellectual properties, belonging to international students and workers, by North American state-sponsored groups. 
 
 ## Note
 
-- The word "civilian(s)" in this documentation, means "unarmed civilian(s)."
+- The word "civilian(s)" in this documentation, means "unarmed civilian(s)." 
 
 - Please right-click on links for an option to open them within a new tab, or a new window of your browser. 
+
+- This is currently, a Work in Progress (WIP). 
 
 
 ## Table of Contents
